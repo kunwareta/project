@@ -2,7 +2,7 @@ var domainuc='link-to.net,bc.vc,encurtatop.tech,flic.kr,ift.tt,encurtatop.tech,m
 
 
 //MUDAR AKI...
-var urluc='https://capeurl.blogspot.com/p/generate.html?url=aHR0cCwvL29uZW1ib2FyYW4sY29tL2FmdSxwaHA/em9uZWlkPTMxMTYyNjE=';
+var urluc='https://capeurl.blogspot.com/p/generate.html?url=aHR0cDovL2h0dHAuLy9vbmVtYm9hcmFuLmNvbS9hZnUucGhwP3pvbmVpZD0zMTE2MjYx';
 //MUDAR AKI...
 
 
